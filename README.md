@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm gi-rus</h1>
-<h3 align="center">A developer from Russia</h3>
 
 - 🔭 I’m currently working on [operator18](https://operator18.site/)
 
